@@ -1,0 +1,5 @@
+*.yml
+*.yaml
+Makefile
+.idea
+*.exe

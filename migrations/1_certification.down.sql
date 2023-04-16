@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS signs;
+
+DROP TABLE IF EXISTS users;
