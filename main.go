@@ -1,12 +1,12 @@
 package main
 
 import (
-	"certification/intrenal/config"
-	"certification/intrenal/handler/rest"
-	"certification/intrenal/repository"
-	server2 "certification/intrenal/server"
-	"certification/intrenal/service"
-	"certification/intrenal/storage/postgres"
+	"certification/internal/config"
+	"certification/internal/handler/rest"
+	"certification/internal/repository"
+	server2 "certification/internal/server"
+	"certification/internal/service"
+	"certification/internal/storage/postgres"
 	"log"
 	"os"
 	"os/signal"

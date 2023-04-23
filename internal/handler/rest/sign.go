@@ -1,8 +1,8 @@
 package rest
 
 import (
-	"certification/intrenal/consts"
-	"certification/intrenal/handler/responce"
+	"certification/internal/consts"
+	"certification/internal/handler/responce"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"

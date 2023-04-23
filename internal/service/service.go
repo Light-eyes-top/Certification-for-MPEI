@@ -1,8 +1,8 @@
 package service
 
 import (
-	service_models "certification/intrenal/models/service-models"
-	"certification/intrenal/repository"
+	service_models "certification/internal/models/service-models"
+	"certification/internal/repository"
 )
 
 type User interface {

@@ -1,7 +1,7 @@
 package rest
 
 import (
-	"certification/intrenal/service"
+	"certification/internal/service"
 )
 
 type Handler struct {

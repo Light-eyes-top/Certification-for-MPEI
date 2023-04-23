@@ -1,9 +1,9 @@
 package mapper
 
 import (
-	db_models "certification/intrenal/models/db-models"
-	service_models "certification/intrenal/models/service-models"
-	transport_models "certification/intrenal/models/transport-models"
+	db_models "certification/internal/models/db-models"
+	service_models "certification/internal/models/service-models"
+	transport_models "certification/internal/models/transport-models"
 )
 
 func UserServiceToDb(in *service_models.User) *db_models.User {

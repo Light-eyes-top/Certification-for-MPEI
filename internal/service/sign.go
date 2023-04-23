@@ -1,7 +1,7 @@
 package service
 
 import (
-	"certification/intrenal/repository"
+	"certification/internal/repository"
 	"crypto/sha256"
 	"encoding/base64"
 )

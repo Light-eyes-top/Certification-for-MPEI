@@ -1,10 +1,10 @@
 package service
 
 import (
-	"certification/intrenal/consts"
-	"certification/intrenal/models/mapper"
-	service_models "certification/intrenal/models/service-models"
-	"certification/intrenal/repository"
+	"certification/internal/consts"
+	"certification/internal/models/mapper"
+	service_models "certification/internal/models/service-models"
+	"certification/internal/repository"
 	"crypto/sha1"
 	"encoding/base64"
 	"github.com/dgrijalva/jwt-go"

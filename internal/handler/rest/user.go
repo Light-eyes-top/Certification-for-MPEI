@@ -1,8 +1,8 @@
 package rest
 
 import (
-	"certification/intrenal/models/mapper"
-	transport_models "certification/intrenal/models/transport-models"
+	"certification/internal/models/mapper"
+	transport_models "certification/internal/models/transport-models"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

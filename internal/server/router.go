@@ -1,8 +1,8 @@
 package server
 
 import (
-	"certification/intrenal/handler/rest"
-	"certification/intrenal/middleware"
+	"certification/internal/handler/rest"
+	"certification/internal/middleware"
 	"github.com/gin-gonic/gin"
 )
 

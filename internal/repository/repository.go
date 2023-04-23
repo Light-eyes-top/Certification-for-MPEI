@@ -1,9 +1,9 @@
 package repository
 
 import (
-	db_models "certification/intrenal/models/db-models"
-	service_models "certification/intrenal/models/service-models"
-	"certification/intrenal/repository/postgres"
+	db_models "certification/internal/models/db-models"
+	service_models "certification/internal/models/service-models"
+	"certification/internal/repository/postgres"
 	"github.com/jmoiron/sqlx"
 )
 

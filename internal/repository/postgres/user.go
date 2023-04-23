@@ -1,9 +1,9 @@
 package postgres
 
 import (
-	db_models "certification/intrenal/models/db-models"
-	"certification/intrenal/models/mapper"
-	service_models "certification/intrenal/models/service-models"
+	db_models "certification/internal/models/db-models"
+	"certification/internal/models/mapper"
+	service_models "certification/internal/models/service-models"
 	"fmt"
 	"github.com/jmoiron/sqlx"
 )

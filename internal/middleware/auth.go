@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"certification/intrenal/consts"
+	"certification/internal/consts"
 	"errors"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
